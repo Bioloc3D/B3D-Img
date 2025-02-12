@@ -18,3 +18,7 @@
       - IJPB-plugins
    - Click "Apply and Close"
    - Click "Apply Changes"
+5. Download and install the B3D-Img macro (.ijm)
+   - Drag and drop the macro in toolset folder of ImageJ/Fiji file
+5. Restart ImageJ/Fiji
+
