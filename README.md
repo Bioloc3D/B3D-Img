@@ -5,3 +5,16 @@
 
 ## 📌 Installation Guide  
 
+1. Download and install the Fiji/ImageJ(IJ) software
+2. Update ImageJ through "Help -> Update..."
+3. Add/Replace 3D Object Counter (core plugin of B3D-Img macro) in ImageJ/Fiji
+   - in Fiji, delete the pre-existing version of the 3D Objects Counter plugin
+   - Download the latest version of the 3D Object Counter plugin
+4. Add additional plugins through "Help -> Update... -> Manage Update Sites"
+   - Select the following plugin packages
+      - 3D ImageJ Suite
+      - Excel Functions
+      - ResultsToExcel
+      - IJPB-plugins
+   - Click "Apply and Close"
+   - Click "Apply Changes"
