@@ -50,7 +50,7 @@
          - Simple segmentation option: if "Yes", only counting of profiles will be performed without any additional data (e.g., volume, MGV)
       - Choose the additional features to run
          - Colocalization: define parameters of counting to verify colocalization of the two primary channels with a third one
-         - Soma: define size of soma to count and the threshold of an additional channel presenting ubiquitary staining (e.g., DAPI)
+         - Soma: define size of soma to count and threshold of an additional channel presenting ubiquitary staining (e.g., DAPI)
 
 
 <img align="center" src="/B3D-Img/ressource/Analysis_tool.png">
