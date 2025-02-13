@@ -23,10 +23,17 @@
 
 ## ⚡️ Operating instructions  
 
-1. Open B3D-Imaging toolset through "More Tools" menu in IJ toolbar
+1. Open B3D-Imaging toolset through the "More Tools" menu in IJ toolbar
+
+
 <img align="center" src="/B3D-Img/ressource/IJ_toolbar.png">
-2. Define the parameters of your analysis for each channel via the "Parameters tool"
-   - #1
+
+
+3. Define the parameters of your analysis for each channel via the "Parameters tool"
+   - Select the stack and the channel to test, and the directory to save your test analysis
+   - Define the adapted threshold of signal detection
+   - Enter the desired parameters for detection of individualized elements, and soma (optional)
+
 
 <img align="center" src="/B3D-Img/ressource/Parameters_tool.png">
 
