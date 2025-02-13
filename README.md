@@ -44,7 +44,7 @@
       - IMPORTANT: Folder must contain only .tiff files
    - Section 2: Display results 
       - Select window displaying option (useful for proofreading, but advised)
-      - IMPORTANT: Select "No" only if you run the analysis on 1 stack only
+      - IMPORTANT: Select "No" only if you run the analysis on 1 stack
    - Section 3: Discriminate elements  
       - Define parameters for the individualization of fluorescent profiles for each primary channel
          - Simple segmentation option: if "Yes", only counting of profiles will be performed without any additional data (e.g., volume, MGV)
