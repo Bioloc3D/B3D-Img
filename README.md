@@ -29,7 +29,7 @@
 <img align="center" src="/B3D-Img/ressource/IJ_toolbar.png">
 
 
-3. Define the parameters of your analysis for each channel via the "Parameters tool"
+2. Define the parameters of your analysis for each channel via the "Parameters tool"
    - Select the stack and the channel to test, and the directory to save your test analysis
    - Define the adapted threshold of signal detection
    - Enter the desired parameters for detection of individualized elements, and soma (optional)
@@ -37,6 +37,23 @@
 
 <img align="center" src="/B3D-Img/ressource/Parameters_tool.png">
 
+
+3. Launch 3D quantification through the "Analysis tool"
+   - Section 1: Load and save 
+      - Select the directory to load stacks to analyze and data to save
+      - IMPORTANT: Folder must contain only .tiff files
+   - Section 2: Display results 
+      - Select window displaying option (useful for proofreading, but advised)
+      - IMPORTANT: Select "No" only if you run the analysis on 1 stack only
+   - Section 3: Discriminate elements  
+      - Define parameters for the individualization of fluorescent profiles for each primary channel
+         - Simple segmentation option: if "Yes", only counting of profiles will be performed without any additional data (e.g., volume, MGV)
+      - Choose the additional features to run
+         - Colocalization: define parameters of counting to verify colocalization of the two primary channels with a third one
+         - Soma: define size of soma to count and the threshold of an additional channel presenting ubiquitary staining (e.g., DAPI)
+
+
+<img align="center" src="/B3D-Img/ressource/Analysis_tool.png">
 
 
 ## 🚀 Contributing
