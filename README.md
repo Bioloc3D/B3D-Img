@@ -23,7 +23,7 @@
 
 ## ⚡️ Operating instructions  
 
-
+<img align="center" src="/B3D-Img/ressource/IJ_toolbar.png">
 
 ## 🚀 Contributing
 If you’d like to contribute, feel free to fork the repository and submit a pull request.
