@@ -56,10 +56,10 @@
 <img align="center" src="/B3D-Img/ressource/Analysis_tool.png">
 
 
-4. Analysis outputs 
+4. Outputs files resulting from the analysis
    - Excel files compile all the data resulting from the analysis
    - Text files are here to avoid a crash of the macro if no objects are counted
-      - "Parameters.txt" recaps all the different parameters used for your analysis (also available in each Excel files)
+      - "Parameters.txt" recaps all the different parameters used for your analysis (also available in each Excel file)
 
      
 <img align="center" src="/B3D-Img/ressource/Analysis_outputs.png">
