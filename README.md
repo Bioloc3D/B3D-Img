@@ -23,7 +23,14 @@
 
 ## ⚡️ Operating instructions  
 
+1. Open B3D-Imaging toolset through "More Tools" menu in IJ toolbar
 <img align="center" src="/B3D-Img/ressource/IJ_toolbar.png">
+2. Define the parameters of your analysis for each channel via the "Parameters tool"
+   - #1
+
+<img align="center" src="/B3D-Img/ressource/Parameters_tool.png">
+
+
 
 ## 🚀 Contributing
 If you’d like to contribute, feel free to fork the repository and submit a pull request.
